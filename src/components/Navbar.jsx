@@ -5,7 +5,7 @@ import { FaRegUser } from "react-icons/fa";
 
 const Navbar = () => {
     return (
-        <div className="container mx-auto px-2 md:px-0">
+        <div className="max-w-7xl mx-auto px-2 md:px-0">
             <div className="flex justify-between py-5 items-center">
             <h1 className="text-2xl font-inter font-bold drop-shadow-md">pti.</h1>
    <div className="flex md:gap-10 items-center gap-3">
