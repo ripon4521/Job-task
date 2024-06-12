@@ -8,7 +8,9 @@ export default {
     extend: {
       fontFamily:{
         'inter': ["Inter", 'sans-serif']
-      }
+      },screens: {
+        'xs': '320px',  // Custom breakpoint for 320px
+      },
     },
   },
   plugins: [
